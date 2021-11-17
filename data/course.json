@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "53f51bb5-b6be-ad47-0470-f7bfdc3d32af"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Special Seminar in Communications: Leadership and Personal Effectiveness Coaching",
+  "course_description": "This course builds on the work done concurrently in 15.280 Communication for Managers and 15.311 Organizational Processes in the first semester of the MBA program. 15.280 is offered for 6 units and 15.277 provides an additional 3 units for a total of 9 units in Managerial Communication. 15.277 acts as a lab component to 15.280 and provides students additional opportunities to hone their communication skills through a variety of in-class exercises. Emphasis is on both individual and team communication.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.277",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
